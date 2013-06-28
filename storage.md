@@ -1,5 +1,8 @@
-rhos-qe-guide
+Storage Guide For Red Hat Openstack
 =============
+
+The following guide provides step by step details on how to configure Red hat openstack with focus
+on storage components such as Cinder, Glance and Swift.
 
 Adding nfs server to cinder: 
 =============================
